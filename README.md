@@ -16,7 +16,7 @@ Checkout the <a href="https://microchipsupport.force.com/s/" target="_blank">Tec
 
  | Folder | Contents |
  | --    | --       |
- | Calibration | Contains Excel file(s) to be used for Metrology Library calibration. Refer to <a href="https://onlinedocs.microchip.com/v2/keyword-lookup?keyword=DemoMeter_Calibrate_the_Demo_Board&redirect=true" target="_blank">Online Documentation</a> for Calibration process |
+ | Calibration | Contains Excel file(s) to be used for Metrology Library calibration. Refer to <a href="https://onlinedocs.microchip.com/v2/keyword-lookup?keyword=DemoMeter_Calibrate_the_Demo_Board&redirect=true" target="_blank">Online Documentation</a> for Calibration process and <a href="https://onlinedocs.microchip.com/v2/keyword-lookup?keyword=Multichannel_Demo_Application&redirect=true" target="_blank">Online Documentation</a> for Multichannel Calibration process |
  | Documents | Contains Documents related to Metrology Library, such as User Guide and Reference Guide |
 
 
